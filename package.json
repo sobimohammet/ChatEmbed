@@ -1,0 +1,9 @@
+{
+  "name": "chatembed",
+  "version": "1.0.0",
+  "description": "Lightweight embeddable AI chat widget powered by Claude",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}
